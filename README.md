@@ -15,8 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/vanshikarajsha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vanshikarajsha1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vanshika sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanshika sharma" height="30" width="40" /></a>
-
-<a href="[https://www.leetcode.com/vani_sharma04](https://leetcode.com/u/Vaani_Sharma/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vani_sharma04" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Vaani_Sharma/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vani_sharma04" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vrsharma042" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vrsharma042" height="30" width="40" /></a>
 <a href="https://discord.gg/Vanshika Sharma#7160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vanshika Sharma#7160" height="30" width="40" /></a>
 </p>
